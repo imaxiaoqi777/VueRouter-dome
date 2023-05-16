@@ -1,7 +1,7 @@
 <template>
-  <div>
-    <router-view />
-  </div>
+    <div>
+        编辑
+    </div>
 </template>
 
 <script setup lang="ts">
